@@ -1,5 +1,4 @@
 {
-   // This is a comment
   "name": "server",
   "version": "1.0.0",
   "description": "Node.js, Express, and MongoDB REST CRUD API",
@@ -18,3 +17,4 @@
     "mongodb": "^6.3.0"
   }
 }
+   // This is a comment
